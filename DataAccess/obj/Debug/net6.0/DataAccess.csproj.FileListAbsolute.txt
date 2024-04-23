@@ -1,0 +1,15 @@
+C:\Users\Aubrey K Tembo\Documents\Visual Studio 2022\Projects\MinimalJWT\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\Aubrey K Tembo\Documents\Visual Studio 2022\Projects\MinimalJWT\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Users\Aubrey K Tembo\Documents\Visual Studio 2022\Projects\MinimalJWT\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\Aubrey K Tembo\Documents\Visual Studio 2022\Projects\MinimalJWT\DataAccess\bin\Debug\net6.0\DataModels.dll
+C:\Users\Aubrey K Tembo\Documents\Visual Studio 2022\Projects\MinimalJWT\DataAccess\bin\Debug\net6.0\DataModels.pdb
+C:\Users\Aubrey K Tembo\Documents\Visual Studio 2022\Projects\MinimalJWT\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\Aubrey K Tembo\Documents\Visual Studio 2022\Projects\MinimalJWT\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aubrey K Tembo\Documents\Visual Studio 2022\Projects\MinimalJWT\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Aubrey K Tembo\Documents\Visual Studio 2022\Projects\MinimalJWT\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\Aubrey K Tembo\Documents\Visual Studio 2022\Projects\MinimalJWT\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Aubrey K Tembo\Documents\Visual Studio 2022\Projects\MinimalJWT\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+C:\Users\Aubrey K Tembo\Documents\Visual Studio 2022\Projects\MinimalJWT\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Users\Aubrey K Tembo\Documents\Visual Studio 2022\Projects\MinimalJWT\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Users\Aubrey K Tembo\Documents\Visual Studio 2022\Projects\MinimalJWT\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\Aubrey K Tembo\Documents\Visual Studio 2022\Projects\MinimalJWT\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll

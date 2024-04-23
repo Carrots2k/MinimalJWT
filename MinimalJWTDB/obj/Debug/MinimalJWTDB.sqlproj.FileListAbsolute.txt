@@ -1,0 +1,10 @@
+C:\Users\Aubrey K Tembo\Documents\Visual Studio 2022\Projects\MinimalJWT\MinimalJWTDB\bin\Debug\MinimalJWTDB.dacpac
+C:\Users\Aubrey K Tembo\Documents\Visual Studio 2022\Projects\MinimalJWT\MinimalJWTDB\obj\Debug\MinimalJWTDB.sqlproj.AssemblyReference.cache
+C:\Users\Aubrey K Tembo\Documents\Visual Studio 2022\Projects\MinimalJWT\MinimalJWTDB\obj\Debug\Model.xml
+C:\Users\Aubrey K Tembo\Documents\Visual Studio 2022\Projects\MinimalJWT\MinimalJWTDB\obj\Debug\refactor.xml
+C:\Users\Aubrey K Tembo\Documents\Visual Studio 2022\Projects\MinimalJWT\MinimalJWTDB\obj\Debug\postdeploy.sql
+C:\Users\Aubrey K Tembo\Documents\Visual Studio 2022\Projects\MinimalJWT\MinimalJWTDB\obj\Debug\predeploy.sql
+C:\Users\Aubrey K Tembo\Documents\Visual Studio 2022\Projects\MinimalJWT\MinimalJWTDB\obj\Debug\MinimalJWTDB.dll
+C:\Users\Aubrey K Tembo\Documents\Visual Studio 2022\Projects\MinimalJWT\MinimalJWTDB\obj\Debug\MinimalJWTDB.pdb
+C:\Users\Aubrey K Tembo\Documents\Visual Studio 2022\Projects\MinimalJWT\MinimalJWTDB\bin\Debug\MinimalJWTDB.dll
+C:\Users\Aubrey K Tembo\Documents\Visual Studio 2022\Projects\MinimalJWT\MinimalJWTDB\bin\Debug\MinimalJWTDB.pdb

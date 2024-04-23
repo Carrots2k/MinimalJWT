@@ -1,0 +1,21 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[Movies] (Table)
+       [dbo].[User] (Table)
+       [dbo].[spUser_Delete] (Procedure)
+       [dbo].[spUser_Get] (Procedure)
+       [dbo].[spUser_GetAll] (Procedure)
+       [dbo].[spUser_Insert] (Procedure)
+       [dbo].[spUser_Update] (Procedure)
+
+** Supporting actions

@@ -1,4 +1,4 @@
-# Welcome to A Simple API with API Authentication and JWT on the go!
+A Simple minimal API with API Authentication and JWT on the go!
 
 !!!!!
 
